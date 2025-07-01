@@ -1,6 +1,7 @@
 # This repository is the official implementation of "Show Me What and Where has Changed? Question Answering and Grounding for Remote Sensing Change Detection"
 
-Our QAG-360K dataset: [Remove to avoid violating double-blind]()
+Our QAG-360K dataset: [Remove to avoid violating double-blind]().
+
 The repository only contains a demo subset to illustrate the dataset structure.
 
 ## 👋 Task CDQAG
