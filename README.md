@@ -1,8 +1,7 @@
 # This repository is the official implementation of "Show Me What and Where has Changed? Question Answering and Grounding for Remote Sensing Change Detection"
 
-Our QAG-360K dataset: [Remove to avoid violating double-blind]().
-
-The repository (QAG360K file) only contains a demo subset to illustrate the dataset structure.
+### Our QAG-360K dataset: [Remove to avoid violating double-blind]().
+### Due to the size limitation of the supplementary materials, the complete dataset cannot be uploaded. The repository (QAG360K file) only contains a demo subset to illustrate the dataset structure.
 
 ## 👋 Task CDQAG
 CDQAG takes a pair of remote sensing images and a question as input. The output is a textual answer and a corresponding visual segmentation. Unlike classic VQA methods that provide only natural language responses, CDQAG can offer both textual answers and correlative visual explanations, which is critical for reasonable remote sensing interpretation.
