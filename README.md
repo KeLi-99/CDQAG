@@ -2,7 +2,7 @@
 
 Our QAG-360K dataset: [Remove to avoid violating double-blind]().
 
-The repository only contains a demo subset to illustrate the dataset structure.
+The repository (QAG360K file) only contains a demo subset to illustrate the dataset structure.
 
 ## 👋 Task CDQAG
 CDQAG takes a pair of remote sensing images and a question as input. The output is a textual answer and a corresponding visual segmentation. Unlike classic VQA methods that provide only natural language responses, CDQAG can offer both textual answers and correlative visual explanations, which is critical for reasonable remote sensing interpretation.
